@@ -1,1 +1,3 @@
-## Maquina de Babbage com previsão do próximo termo para valores decimais
+## Maquina de Babbage
+- previsão para valores decimais no eixo x.
+- previsão para polinomios de graus diversos.
