@@ -3,3 +3,4 @@
 - previsão para polinomios de graus diversos.
 
 
+
